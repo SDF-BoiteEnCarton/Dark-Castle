@@ -1,0 +1,49 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Resources/Models/Carte Chapitre Dark Castle.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Textures/Boss/01.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Material": "Solid",
+    "Support": {
+      "BlockSides": [
+        {
+          "FaceType": "Full",
+          "Support": "Required"
+        }
+      ]
+    },
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "SoftBlocks",
+        "ItemId": "Card_Boss_SeigneurTenebre_Hand"
+      }
+    },
+    "CustomModelAnimation": "Resources/Animations/DarkCastle_Chapitre_Animation.blockyanim",
+    "HitboxType": "Hitbox_Cards_Big"
+  },
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      0,
+      -59
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Card_Boss_SeigneurTenebre.png",
+  "Categories": [
+    "BoiteAOutils_Outils.DarkCastle"
+  ],
+  "TranslationProperties": {
+    "Name": "items.DarkCaslte_Boss_SeigneurTenebre.name"
+  }
+}

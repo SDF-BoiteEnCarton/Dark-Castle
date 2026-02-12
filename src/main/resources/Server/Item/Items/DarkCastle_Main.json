@@ -1,0 +1,61 @@
+{
+  "BlockType": {
+    "CustomModel": "Resources/Models/DarkCastle_Card_256x256_Model.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Textures/Card_DarkCastle_256x256_Texture.png"
+      }
+    ],
+    "DrawType": "Model",
+    "VariantRotation": "NESW",
+    "Material": "Solid",
+    "Support": {
+      "BlockSides": [
+        {
+          "Support": "Required",
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "SoftBlocks"
+      }
+    },
+    "HitboxType": "Hitbox_DarkCastle_Main"
+  },
+  "Icon": "Icons/ItemsGenerated/DarkCastle_Main.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      180,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "Scale": 1.2,
+  "PlayerAnimationsId": "Block",
+  "Recipe": {
+    "RequiredMemoriesLevel": 1,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Fabric_Scrap_Linen"
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "GamesTable",
+        "Categories": [
+          "DarkCastle.Bench"
+        ]
+      }
+    ]
+  },
+  "TranslationProperties": {
+    "Name": "server.items.DarkCastle_Main.name"
+  }
+}
