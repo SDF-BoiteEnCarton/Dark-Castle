@@ -17,7 +17,7 @@
       ]
     },
     "PlacementSettings": {
-      "WallPlacementOverrideBlockId": "Card_Boss_SeigneurTenebre"
+      "WallPlacementOverrideBlockId": "Card_Boss_MaitreOmbre"
     }
   },
   "IconProperties": {
@@ -36,7 +36,7 @@
   "PlayerAnimationsId": "Block",
   "Icon": "Icons/ItemsGenerated/Card_Boss_SeigneurTenebre_Hand.png",
   "TranslationProperties": {
-    "Name": "server.items.DarkCaslte_Boss_SeigneurTenebre.name"
+    "Name": "server.items.DarkCaslte_Boss_MaitreOmbre.name"
   },
   "Tags": {
     "Type": [

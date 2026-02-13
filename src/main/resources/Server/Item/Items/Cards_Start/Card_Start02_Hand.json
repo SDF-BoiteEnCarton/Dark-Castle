@@ -3,7 +3,7 @@
     "CustomModel": "Resources/Models/DarkCastle_Card_256x256_Model.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Textures/Card_DarkCastle_Boss_Texture.png"
+        "Texture": "Resources/Textures/Card_DarkCastle_Depart_Texture.png"
       }
     ],
     "DrawType": "Model",
@@ -17,7 +17,7 @@
       ]
     },
     "PlacementSettings": {
-      "WallPlacementOverrideBlockId": "Card_Boss_SeigneurTenebre"
+      "WallPlacementOverrideBlockId": "Card_Start02"
     }
   },
   "IconProperties": {
@@ -34,9 +34,9 @@
   },
   "Scale": 1.2,
   "PlayerAnimationsId": "Block",
-  "Icon": "Icons/ItemsGenerated/Card_Boss_SeigneurTenebre_Hand.png",
+  "Icon": "Icons/ItemsGenerated/Card_Start01_Hand.png",
   "TranslationProperties": {
-    "Name": "server.items.DarkCaslte_Boss_SeigneurTenebre.name"
+    "Name": "server.items.DarkCaslte_Start.name"
   },
   "Tags": {
     "Type": [
