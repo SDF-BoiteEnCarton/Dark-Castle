@@ -42,5 +42,6 @@
   "Icon": "Icons/ItemsGenerated/Card_Boss_OutreTombe.png",
   "TranslationProperties": {
     "Name": "server.items.DarkCaslte_Boss_OutreTombe.name"
-  }
+  },
+  "Quality": "Developer"
 }

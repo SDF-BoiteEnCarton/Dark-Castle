@@ -1,18 +1,26 @@
 {
-  "Group": "${plugin_group}",
-  "Name": "${plugin_name}",
-  "Version": "${plugin_version}",
-  "Description": "${plugin_description}",
+  "Group": "SDF",
+  "Name": "Dark Castle",
+  "Version": "1.0.0",
+  "Description": "",
   "Authors": [
     {
-      "Name": "${plugin_author}"
+      "Name": "Leny15",
+      "Email": "",
+      "Url": ""
+    },
+    {
+      "Name": "Mimite",
+      "Email": "",
+      "Url": ""
     }
   ],
-  "Website": "${plugin_website}",
-  "ServerVersion": "${server_version}",
+  "Website": "",
+  "ServerVersion": "2026.02.17-255364b8e",
   "Dependencies": {},
   "OptionalDependencies": {},
+  "LoadBefore": {},
   "DisabledByDefault": false,
-  "IncludesAssetPack": true,
-  "Main": "${plugin_main_entrypoint}"
+  "IncludesAssetPack": false,
+  "SubPlugins": []
 }

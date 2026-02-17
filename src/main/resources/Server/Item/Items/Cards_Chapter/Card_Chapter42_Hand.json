@@ -1,0 +1,49 @@
+{
+  "BlockType": {
+    "CustomModel": "Resources/Models/DarkCastle_Card_256x256_Model.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Textures/Card_DarkCastle_Chapitre_Texture.png"
+      }
+    ],
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Support": {
+      "Down": [
+        {
+          "Support": "Disallowed",
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "PlacementSettings": {
+      "WallPlacementOverrideBlockId": "Card_Chapter42"
+    }
+  },
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      0,
+      180,
+      0
+    ],
+    "Translation": [
+      0,
+      -16
+    ]
+  },
+  "Scale": 1.2,
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Card_Chapter01_Hand.png",
+  "TranslationProperties": {
+    "Name": "server.items.DarkCaslte_Chapter.name"
+  },
+  "Tags": {
+    "Type": [
+      "Cards"
+    ]
+  },
+  "Categories": [
+    "BoiteAOutils_Outils.DarkCastle"
+  ]
+}

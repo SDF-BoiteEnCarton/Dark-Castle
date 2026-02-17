@@ -1,0 +1,44 @@
+{
+  "BlockType": {
+    "CustomModel": "Resources/Models/DarkCastle_Objets_Hand.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Textures/Objets/Cartes (62) 25x256.png"
+      }
+    ],
+    "DrawType": "Model",
+    "VariantRotation": "NESW",
+    "Material": "Solid",
+    "Support": {
+      "Down": [
+        {
+          "Support": "Required",
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "HitboxType": "Hitbox_Cards_Objects",
+    "PlacementSettings": {
+      "FloorPlacementOverrideBlockId": "Card_Object03"
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/Card_Object03.png",
+  "IconProperties": {
+    "Scale": 1.8,
+    "Rotation": [
+      90,
+      0,
+      0
+    ],
+    "Translation": [
+      0.6,
+      -0.5
+    ]
+  },
+  "Scale": 1.2,
+  "PlayerAnimationsId": "Block",
+  "TranslationProperties": {
+    "Name": "server.items.DarkCastle_Object03.name",
+    "Description": "server.items.DarkCastle_Object03.description"
+  }
+}

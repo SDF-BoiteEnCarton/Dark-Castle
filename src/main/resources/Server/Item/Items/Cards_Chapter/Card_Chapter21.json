@@ -1,0 +1,47 @@
+{
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Resources/Models/Carte Chapitre Dark Castle.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Resources/Textures/Chapitre/27.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Material": "Solid",
+    "Support": {
+      "BlockSides": [
+        {
+          "FaceType": "Full",
+          "Support": "Required"
+        }
+      ]
+    },
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "SoftBlocks",
+        "ItemId": "Card_Chapter21_Hand"
+      }
+    },
+    "CustomModelAnimation": "Resources/Animations/DarkCastle_Chapitre_Animation.blockyanim",
+    "HitboxType": "Hitbox_Cards_Big"
+  },
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Translation": [
+      -1,
+      -55
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "Icon": "Icons/ItemsGenerated/Card_Chapter21.png",
+  "TranslationProperties": {
+    "Name": "server.items.DarkCaslte_Chapter.name"
+  },
+  "Quality": "Developer"
+}
