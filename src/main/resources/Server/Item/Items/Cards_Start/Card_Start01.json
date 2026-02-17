@@ -42,5 +42,6 @@
   "Icon": "Icons/ItemsGenerated/Card_Start01.png",
   "TranslationProperties": {
     "Name": "server.items.DarkCaslte_Start.name"
-  }
+  },
+  "Quality": "Developer"
 }

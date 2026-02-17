@@ -42,5 +42,6 @@
   "Icon": "Icons/ItemsGenerated/Card_Boss_Entite.png",
   "TranslationProperties": {
     "Name": "server.items.DarkCaslte_Boss_Entite.name"
-  }
+  },
+  "Quality": "Developer"
 }

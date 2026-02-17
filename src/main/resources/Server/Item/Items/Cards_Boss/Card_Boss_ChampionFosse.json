@@ -42,5 +42,6 @@
   "Icon": "Icons/ItemsGenerated/Card_Boss_ChampionFosse.png",
   "TranslationProperties": {
     "Name": "server.items.DarkCaslte_Boss_ChampionFosse.name"
-  }
+  },
+  "Quality": "Developer"
 }

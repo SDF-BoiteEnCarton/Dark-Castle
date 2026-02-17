@@ -42,5 +42,6 @@
   "Icon": "Icons/ItemsGenerated/Card_Boss_Hydre.png",
   "TranslationProperties": {
     "Name": "server.items.DarkCaslte_Boss_Hydre.name"
-  }
+  },
+  "Quality": "Developer"
 }
